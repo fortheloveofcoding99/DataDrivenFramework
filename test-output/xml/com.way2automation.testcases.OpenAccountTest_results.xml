@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Open Account Test"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="7.483">
+  <properties />
+  
+  
+            <testcase name="openAccountTest" time="1.349" classname="com.way2automation.testcases.OpenAccountTest" />
+                <testcase name="openAccountTest" time="1.343" classname="com.way2automation.testcases.OpenAccountTest" />
+                <testcase name="openAccountTest" time="1.833" classname="com.way2automation.testcases.OpenAccountTest" />
+                <testcase name="openAccountTest" time="1.499" classname="com.way2automation.testcases.OpenAccountTest" />
+                <testcase name="openAccountTest" time="1.459" classname="com.way2automation.testcases.OpenAccountTest" />
+      
+</testsuite>

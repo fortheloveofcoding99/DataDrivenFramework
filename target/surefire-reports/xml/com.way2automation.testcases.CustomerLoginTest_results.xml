@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Customer Login Test"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="7.102">
+  <properties />
+  
+  
+            <testcase name="customerLoginTest" time="1.427" classname="com.way2automation.testcases.CustomerLoginTest" />
+                <testcase name="customerLoginTest" time="1.402" classname="com.way2automation.testcases.CustomerLoginTest" />
+                <testcase name="customerLoginTest" time="1.351" classname="com.way2automation.testcases.CustomerLoginTest" />
+                <testcase name="customerLoginTest" time="1.367" classname="com.way2automation.testcases.CustomerLoginTest" />
+                <testcase name="customerLoginTest" time="1.555" classname="com.way2automation.testcases.CustomerLoginTest" />
+      
+</testsuite>

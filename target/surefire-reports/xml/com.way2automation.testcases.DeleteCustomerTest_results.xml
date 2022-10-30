@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Customer Deletion Test"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="7.084">
+  <properties />
+  
+  
+            <testcase name="deleteCustomerTest" time="1.578" classname="com.way2automation.testcases.DeleteCustomerTest" />
+                <testcase name="deleteCustomerTest" time="1.399" classname="com.way2automation.testcases.DeleteCustomerTest" />
+                <testcase name="deleteCustomerTest" time="1.360" classname="com.way2automation.testcases.DeleteCustomerTest" />
+                <testcase name="deleteCustomerTest" time="1.358" classname="com.way2automation.testcases.DeleteCustomerTest" />
+                <testcase name="deleteCustomerTest" time="1.389" classname="com.way2automation.testcases.DeleteCustomerTest" />
+      
+</testsuite>

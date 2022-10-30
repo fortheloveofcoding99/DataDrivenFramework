@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Add Customer Test"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="7.385">
+  <properties />
+  
+  
+            <testcase name="addCusTest" time="1.438" classname="com.way2automation.testcases.AddCusTest" />
+                <testcase name="addCusTest" time="1.396" classname="com.way2automation.testcases.AddCusTest" />
+                <testcase name="addCusTest" time="1.458" classname="com.way2automation.testcases.AddCusTest" />
+                <testcase name="addCusTest" time="1.699" classname="com.way2automation.testcases.AddCusTest" />
+                <testcase name="addCusTest" time="1.394" classname="com.way2automation.testcases.AddCusTest" />
+      
+</testsuite>

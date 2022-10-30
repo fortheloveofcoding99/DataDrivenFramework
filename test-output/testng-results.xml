@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="26" passed="26" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-30T01:51:57 IST" name="Data Driven Frame" finished-at="2022-10-30T01:53:10 IST" duration-ms="73540">
+    <groups>
+    </groups>
+    <test started-at="2022-10-30T01:51:57 IST" name="LoginTest" finished-at="2022-10-30T01:51:57 IST" duration-ms="252">
+      <class name="com.way2automation.testcases.LogInTest">
+        <test-method signature="logInTest()[pri:0, instance:com.way2automation.testcases.LogInTest@9635fa]" started-at="2022-10-30T01:51:57 IST" name="logInTest" finished-at="2022-10-30T01:51:57 IST" duration-ms="215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInTest -->
+      </class> <!-- com.way2automation.testcases.LogInTest -->
+    </test> <!-- LoginTest -->
+    <test started-at="2022-10-30T01:51:57 IST" name="Add Customer Test" finished-at="2022-10-30T01:52:04 IST" duration-ms="6957">
+      <class name="com.way2automation.testcases.AddCusTest">
+        <test-method signature="addCusTest(java.util.Hashtable)[pri:0, instance:com.way2automation.testcases.AddCusTest@f9879ac]" started-at="2022-10-30T01:51:58 IST" name="addCusTest" data-provider="dp" finished-at="2022-10-30T01:51:59 IST" duration-ms="1564" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{postCode=911.0, lastName=Builder, Runmode=Y, firstName=Bob, alertText=Customer added successfully}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCusTest -->
+        <test-method signature="addCusTest(java.util.Hashtable)[pri:0, instance:com.way2automation.testcases.AddCusTest@f9879ac]" started-at="2022-10-30T01:51:59 IST" name="addCusTest" data-provider="dp" finished-at="2022-10-30T01:52:00 IST" duration-ms="1313" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{postCode=444.0, lastName=Maguire, Runmode=Y, firstName=Jerry, alertText=Customer added successfully}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCusTest -->
+        <test-method signature="addCusTest(java.util.Hashtable)[pri:0, instance:com.way2automation.testcases.AddCusTest@f9879ac]" started-at="2022-10-30T01:52:00 IST" name="addCusTest" data-provider="dp" finished-at="2022-10-30T01:52:02 IST" duration-ms="1302" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{postCode=777.0, lastName=Wick, Runmode=Y, firstName=John, alertText=Customer added successfully}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCusTest -->
+        <test-method signature="addCusTest(java.util.Hashtable)[pri:0, instance:com.way2automation.testcases.AddCusTest@f9879ac]" started-at="2022-10-30T01:52:02 IST" name="addCusTest" data-provider="dp" finished-at="2022-10-30T01:52:03 IST" duration-ms="1260" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{postCode=700.0, lastName=Bond, Runmode=Y, firstName=James, alertText=Customer added successfully}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCusTest -->
+        <test-method signature="addCusTest(java.util.Hashtable)[pri:0, instance:com.way2automation.testcases.AddCusTest@f9879ac]" started-at="2022-10-30T01:52:03 IST" name="addCusTest" data-provider="dp" finished-at="2022-10-30T01:52:04 IST" duration-ms="1477" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{postCode=666.0, lastName=Parker, Runmode=Y, firstName=Peter, alertText=Customer added successfully}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCusTest -->
+      </class> <!-- com.way2automation.testcases.AddCusTest -->
+    </test> <!-- Add Customer Test -->
+    <test started-at="2022-10-30T01:52:05 IST" name="Open Account Test" finished-at="2022-10-30T01:52:12 IST" duration-ms="7492">
+      <class name="com.way2automation.testcases.OpenAccountTest">
+        <test-method signature="openAccountTest(java.util.Hashtable)[pri:0, instance:com.way2automation.testcases.OpenAccountTest@4ef27d66]" started-at="2022-10-30T01:52:05 IST" name="openAccountTest" data-provider="dp" finished-at="2022-10-30T01:52:06 IST" duration-ms="1459" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{currency=Rupee, customer=Bob Builder}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAccountTest -->
+        <test-method signature="openAccountTest(java.util.Hashtable)[pri:0, instance:com.way2automation.testcases.OpenAccountTest@4ef27d66]" started-at="2022-10-30T01:52:06 IST" name="openAccountTest" data-provider="dp" finished-at="2022-10-30T01:52:07 IST" duration-ms="1343" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{currency=Rupee, customer=Jerry Maguire}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAccountTest -->
+        <test-method signature="openAccountTest(java.util.Hashtable)[pri:0, instance:com.way2automation.testcases.OpenAccountTest@4ef27d66]" started-at="2022-10-30T01:52:07 IST" name="openAccountTest" data-provider="dp" finished-at="2022-10-30T01:52:09 IST" duration-ms="1833" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{currency=Rupee, customer=John Wick}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAccountTest -->
+        <test-method signature="openAccountTest(java.util.Hashtable)[pri:0, instance:com.way2automation.testcases.OpenAccountTest@4ef27d66]" started-at="2022-10-30T01:52:09 IST" name="openAccountTest" data-provider="dp" finished-at="2022-10-30T01:52:11 IST" duration-ms="1499" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{currency=Rupee, customer=James Bond}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAccountTest -->
+        <test-method signature="openAccountTest(java.util.Hashtable)[pri:0, instance:com.way2automation.testcases.OpenAccountTest@4ef27d66]" started-at="2022-10-30T01:52:11 IST" name="openAccountTest" data-provider="dp" finished-at="2022-10-30T01:52:12 IST" duration-ms="1349" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{currency=Rupee, customer=Peter Parker}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAccountTest -->
+      </class> <!-- com.way2automation.testcases.OpenAccountTest -->
+    </test> <!-- Open Account Test -->
+    <test started-at="2022-10-30T01:52:12 IST" name="Customer Login Test" finished-at="2022-10-30T01:52:19 IST" duration-ms="6895">
+      <class name="com.way2automation.testcases.CustomerLoginTest">
+        <test-method signature="customerLoginTest(java.util.Hashtable)[pri:0, instance:com.way2automation.testcases.CustomerLoginTest@3f23a3a0]" started-at="2022-10-30T01:52:12 IST" name="customerLoginTest" data-provider="dp" finished-at="2022-10-30T01:52:14 IST" duration-ms="1546" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{customer=Bob Builder}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customerLoginTest -->
+        <test-method signature="customerLoginTest(java.util.Hashtable)[pri:0, instance:com.way2automation.testcases.CustomerLoginTest@3f23a3a0]" started-at="2022-10-30T01:52:14 IST" name="customerLoginTest" data-provider="dp" finished-at="2022-10-30T01:52:15 IST" duration-ms="1295" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{customer=Jerry Maguire}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customerLoginTest -->
+        <test-method signature="customerLoginTest(java.util.Hashtable)[pri:0, instance:com.way2automation.testcases.CustomerLoginTest@3f23a3a0]" started-at="2022-10-30T01:52:15 IST" name="customerLoginTest" data-provider="dp" finished-at="2022-10-30T01:52:16 IST" duration-ms="1368" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{customer=John Wick}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customerLoginTest -->
+        <test-method signature="customerLoginTest(java.util.Hashtable)[pri:0, instance:com.way2automation.testcases.CustomerLoginTest@3f23a3a0]" started-at="2022-10-30T01:52:16 IST" name="customerLoginTest" data-provider="dp" finished-at="2022-10-30T01:52:18 IST" duration-ms="1323" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{customer=James Bond}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customerLoginTest -->
+        <test-method signature="customerLoginTest(java.util.Hashtable)[pri:0, instance:com.way2automation.testcases.CustomerLoginTest@3f23a3a0]" started-at="2022-10-30T01:52:18 IST" name="customerLoginTest" data-provider="dp" finished-at="2022-10-30T01:52:19 IST" duration-ms="1351" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{customer=Peter Parker}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customerLoginTest -->
+      </class> <!-- com.way2automation.testcases.CustomerLoginTest -->
+    </test> <!-- Customer Login Test -->
+    <test started-at="2022-10-30T01:52:19 IST" name="Customer Transaction Test" finished-at="2022-10-30T01:53:03 IST" duration-ms="44368">
+      <class name="com.way2automation.testcases.CustomerTransactionTest">
+        <test-method signature="customerTransactionTest(java.util.Hashtable)[pri:0, instance:com.way2automation.testcases.CustomerTransactionTest@32cb636e]" started-at="2022-10-30T01:52:19 IST" name="customerTransactionTest" data-provider="dp" finished-at="2022-10-30T01:52:28 IST" duration-ms="8966" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{WithdrawalMessage=Transaction successful, wd=100.0, balance=900.0, DepositMessage=Deposit Successful, dep=1000.0, customer=Bob Builder}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customerTransactionTest -->
+        <test-method signature="customerTransactionTest(java.util.Hashtable)[pri:0, instance:com.way2automation.testcases.CustomerTransactionTest@32cb636e]" started-at="2022-10-30T01:52:28 IST" name="customerTransactionTest" data-provider="dp" finished-at="2022-10-30T01:52:37 IST" duration-ms="8824" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{WithdrawalMessage=Transaction successful, wd=1000.0, balance=1000.0, DepositMessage=Deposit Successful, dep=2000.0, customer=Jerry Maguire}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customerTransactionTest -->
+        <test-method signature="customerTransactionTest(java.util.Hashtable)[pri:0, instance:com.way2automation.testcases.CustomerTransactionTest@32cb636e]" started-at="2022-10-30T01:52:37 IST" name="customerTransactionTest" data-provider="dp" finished-at="2022-10-30T01:52:46 IST" duration-ms="8836" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{WithdrawalMessage=Transaction successful, wd=2000.0, balance=1000.0, DepositMessage=Deposit Successful, dep=3000.0, customer=John Wick}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customerTransactionTest -->
+        <test-method signature="customerTransactionTest(java.util.Hashtable)[pri:0, instance:com.way2automation.testcases.CustomerTransactionTest@32cb636e]" started-at="2022-10-30T01:52:46 IST" name="customerTransactionTest" data-provider="dp" finished-at="2022-10-30T01:52:55 IST" duration-ms="8873" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{WithdrawalMessage=Transaction successful, wd=3000.0, balance=1000.0, DepositMessage=Deposit Successful, dep=4000.0, customer=James Bond}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customerTransactionTest -->
+        <test-method signature="customerTransactionTest(java.util.Hashtable)[pri:0, instance:com.way2automation.testcases.CustomerTransactionTest@32cb636e]" started-at="2022-10-30T01:52:55 IST" name="customerTransactionTest" data-provider="dp" finished-at="2022-10-30T01:53:03 IST" duration-ms="8854" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{WithdrawalMessage=Transaction Failed. You can not withdraw amount more than the balance., wd=5001.0, balance=5000.0, DepositMessage=Deposit Successful, dep=5000.0, customer=Peter Parker}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customerTransactionTest -->
+      </class> <!-- com.way2automation.testcases.CustomerTransactionTest -->
+    </test> <!-- Customer Transaction Test -->
+    <test started-at="2022-10-30T01:53:03 IST" name="Customer Deletion Test" finished-at="2022-10-30T01:53:10 IST" duration-ms="6776">
+      <class name="com.way2automation.testcases.DeleteCustomerTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.way2automation.testcases.DeleteCustomerTest@6fff253c]" started-at="2022-10-30T01:51:50 IST" name="setup" finished-at="2022-10-30T01:51:57 IST" duration-ms="7018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="deleteCustomerTest(java.util.Hashtable)[pri:0, instance:com.way2automation.testcases.DeleteCustomerTest@6fff253c]" started-at="2022-10-30T01:53:03 IST" name="deleteCustomerTest" data-provider="dp" finished-at="2022-10-30T01:53:05 IST" duration-ms="1520" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{customer=Bob}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCustomerTest -->
+        <test-method signature="deleteCustomerTest(java.util.Hashtable)[pri:0, instance:com.way2automation.testcases.DeleteCustomerTest@6fff253c]" started-at="2022-10-30T01:53:05 IST" name="deleteCustomerTest" data-provider="dp" finished-at="2022-10-30T01:53:06 IST" duration-ms="1320" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{customer=Jerry}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCustomerTest -->
+        <test-method signature="deleteCustomerTest(java.util.Hashtable)[pri:0, instance:com.way2automation.testcases.DeleteCustomerTest@6fff253c]" started-at="2022-10-30T01:53:06 IST" name="deleteCustomerTest" data-provider="dp" finished-at="2022-10-30T01:53:08 IST" duration-ms="1304" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{customer=John}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCustomerTest -->
+        <test-method signature="deleteCustomerTest(java.util.Hashtable)[pri:0, instance:com.way2automation.testcases.DeleteCustomerTest@6fff253c]" started-at="2022-10-30T01:53:08 IST" name="deleteCustomerTest" data-provider="dp" finished-at="2022-10-30T01:53:09 IST" duration-ms="1323" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{customer=James}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCustomerTest -->
+        <test-method signature="deleteCustomerTest(java.util.Hashtable)[pri:0, instance:com.way2automation.testcases.DeleteCustomerTest@6fff253c]" started-at="2022-10-30T01:53:09 IST" name="deleteCustomerTest" data-provider="dp" finished-at="2022-10-30T01:53:10 IST" duration-ms="1295" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{customer=Peter}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCustomerTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.way2automation.testcases.DeleteCustomerTest@6fff253c]" started-at="2022-10-30T01:53:10 IST" name="tearDown" finished-at="2022-10-30T01:53:11 IST" duration-ms="183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.way2automation.testcases.DeleteCustomerTest -->
+    </test> <!-- Customer Deletion Test -->
+  </suite> <!-- Data Driven Frame -->
+</testng-results>

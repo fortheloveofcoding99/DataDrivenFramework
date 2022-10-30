@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Data Driven Frame]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+    <listener class-name="com.way2automation.listeners.CustomListeners"/>
+  </listeners>
+  <test thread-count="5" name="Customer Transaction Test(failed)" verbose="0">
+    <classes>
+      <class name="com.way2automation.testcases.CustomerTransactionTest">
+        <methods>
+          <include name="customerTransactionTest" invocation-numbers="0 1 2 3 4"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.way2automation.testcases.CustomerTransactionTest -->
+    </classes>
+  </test> <!-- Customer Transaction Test(failed) -->
+</suite> <!-- Failed suite [Data Driven Frame] -->

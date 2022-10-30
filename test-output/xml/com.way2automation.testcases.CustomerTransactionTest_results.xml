@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Customer Transaction Test"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="44.353">
+  <properties />
+  
+  
+            <testcase name="customerTransactionTest" time="8.873" classname="com.way2automation.testcases.CustomerTransactionTest" />
+                <testcase name="customerTransactionTest" time="8.836" classname="com.way2automation.testcases.CustomerTransactionTest" />
+                <testcase name="customerTransactionTest" time="8.966" classname="com.way2automation.testcases.CustomerTransactionTest" />
+                <testcase name="customerTransactionTest" time="8.824" classname="com.way2automation.testcases.CustomerTransactionTest" />
+                <testcase name="customerTransactionTest" time="8.854" classname="com.way2automation.testcases.CustomerTransactionTest" />
+      
+</testsuite>

@@ -1,0 +1,28 @@
+INFO    2022-10-30 23:52:41,383 [main] com.way2automation.base.TestLogs  - Logs started
+INFO    2022-10-30 23:52:41,386 [main] com.way2automation.base.TestLogs  - config file loaded !
+INFO    2022-10-30 23:52:41,389 [main] com.way2automation.base.TestLogs  - object repo file loaded !
+INFO    2022-10-30 23:52:44,063 [main] com.way2automation.base.TestLogs  - chrome browser loaded !
+INFO    2022-10-30 23:52:44,947 [main] com.way2automation.base.TestLogs  - Inside login test
+INFO    2022-10-30 23:52:45,075 [main] com.way2automation.base.TestLogs  - Login executed sucessfully
+INFO    2022-10-30 23:52:45,184 [main] com.way2automation.base.TestLogs  - Webelement found
+INFO    2022-10-30 23:52:45,725 [main] com.way2automation.base.TestLogs  - addCustomer testfall anfängt
+INFO    2022-10-30 23:52:47,422 [main] com.way2automation.base.TestLogs  - Neue konto hinzugefugt
+INFO    2022-10-30 23:52:47,425 [main] com.way2automation.base.TestLogs  - addCustomer testfall anfängt
+INFO    2022-10-30 23:52:48,862 [main] com.way2automation.base.TestLogs  - Neue konto hinzugefugt
+INFO    2022-10-30 23:52:48,863 [main] com.way2automation.base.TestLogs  - addCustomer testfall anfängt
+INFO    2022-10-30 23:52:50,257 [main] com.way2automation.base.TestLogs  - Neue konto hinzugefugt
+INFO    2022-10-30 23:52:50,258 [main] com.way2automation.base.TestLogs  - addCustomer testfall anfängt
+INFO    2022-10-30 23:52:51,654 [main] com.way2automation.base.TestLogs  - Neue konto hinzugefugt
+INFO    2022-10-30 23:52:51,656 [main] com.way2automation.base.TestLogs  - addCustomer testfall anfängt
+INFO    2022-10-30 23:52:53,114 [main] com.way2automation.base.TestLogs  - Neue konto hinzugefugt
+INFO    2022-10-30 23:52:53,211 [main] com.way2automation.base.TestLogs  - openCustomer testfall anfängt
+INFO    2022-10-30 23:52:59,842 [main] com.way2automation.base.TestLogs  - Neue konto hinzugefugt
+INFO    2022-10-30 23:52:59,843 [main] com.way2automation.base.TestLogs  - openCustomer testfall anfängt
+INFO    2022-10-30 23:53:01,281 [main] com.way2automation.base.TestLogs  - Neue konto hinzugefugt
+INFO    2022-10-30 23:53:01,283 [main] com.way2automation.base.TestLogs  - openCustomer testfall anfängt
+INFO    2022-10-30 23:53:03,281 [main] com.way2automation.base.TestLogs  - Neue konto hinzugefugt
+INFO    2022-10-30 23:53:03,282 [main] com.way2automation.base.TestLogs  - openCustomer testfall anfängt
+INFO    2022-10-30 23:53:04,914 [main] com.way2automation.base.TestLogs  - Neue konto hinzugefugt
+INFO    2022-10-30 23:53:04,915 [main] com.way2automation.base.TestLogs  - openCustomer testfall anfängt
+INFO    2022-10-30 23:53:06,373 [main] com.way2automation.base.TestLogs  - Neue konto hinzugefugt
+INFO    2022-10-30 23:54:05,842 [main] com.way2automation.base.TestLogs  - Test execution ended
